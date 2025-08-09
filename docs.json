@@ -8,6 +8,11 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
+  "openGraph": {
+    "image": "https://docs.ashis.tech/logo/ashistech.png",
+    "title": "Ashis Tech Docs",
+    "description": "Web Design, Cybersecurity, and SEO documentation for developers."
+  },
   "navigation": {
     "tabs": [
       {
