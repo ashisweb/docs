@@ -79,7 +79,7 @@
           "anchor": "Web Design",
           "href": "https://mintlify.com/docs",
           "icon": "palette",
-          "backgroundColor": "#F7D402"
+          "icon backgroundColor": "#F7D402"
         },
         {
           "anchor": "Cybersecurity",
