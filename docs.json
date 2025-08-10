@@ -78,7 +78,8 @@
   },
   "logo": {
     "light": "/logo/Ashis Tech.png",
-    "dark": "/logo/Ashis TechD.png"
+    "dark": "/logo/Ashis TechD.png",
+    "href": "https://ashis.tech"
   },
   "navbar": {
     "links": [
