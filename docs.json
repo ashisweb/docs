@@ -83,12 +83,12 @@
         {
           "anchor": "Cybersecurity",
           "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "icon": "shield"
         },
         {
           "anchor": "Seo",
           "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "icon": "bullseye-arrow"
         }
       ]
     }
