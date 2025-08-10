@@ -62,6 +62,16 @@
           "anchor": "Server Configuration",
           "href": "https://mintlify.com/server-config",
           "icon": "server"
+        },
+        {
+          "anchor": "Chatbot Development",
+          "href": "https://mintlify.com/chatbot-development",
+          "icon": "message-square"
+        },
+        {
+          "anchor": "Cloud Computing",
+          "href": "https://mintlify.com/cloud-computing",
+          "icon": "cloud"
         }
       ]
     }
