@@ -7,7 +7,7 @@
     "light": "#07C983",
     "dark": "#F7D402"
   },
-  "favicon": "/ashistechfav.png",
+  "favicon": "logo/ashistechfav.png",
   "openGraph": {
     "image": "https://docs.ashis.tech/logo/ashis.tech.png",
     "title": "Ashis Tech Docs",
