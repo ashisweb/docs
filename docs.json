@@ -5,7 +5,7 @@
   "colors": {
     "primary": "#F7D402",
     "light": "#07C983",
-    "dark": "#15803D"
+    "dark": "#F7D402"
   },
   "favicon": "/favicon.svg",
   "openGraph": {
@@ -107,6 +107,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
+      "backgroundColor": "#FFD700",
       "href": "https://dashboard.mintlify.com"
     }
   },
