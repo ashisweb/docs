@@ -78,6 +78,7 @@
         {
           "anchor": "Web Design",
           "href": "https://mintlify.com/docs",
+          "backgroundColor": "#F7D402",
           "icon": "palette"
         },
         {
