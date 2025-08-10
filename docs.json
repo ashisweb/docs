@@ -66,12 +66,12 @@
         {
           "anchor": "Chatbot Development",
           "href": "https://mintlify.com/chatbot-development",
-          "icon": "message-square"
+          "icon": "message-dots"
         },
         {
           "anchor": "Cloud Computing",
           "href": "https://mintlify.com/cloud-computing",
-          "icon": "cloud"
+          "icon": "cloud-check"
         }
       ]
     }
