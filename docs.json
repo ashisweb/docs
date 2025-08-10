@@ -2,11 +2,14 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "ashis tech",
-  "defaultMode": "light",
   "colors": {
     "primary": "#F7D402",
     "light": "#F7D402",
     "dark": "#F7D402"
+  },
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": false
   },
   "favicon": "/logo/ashistechfav.png",
   "openGraph": {
