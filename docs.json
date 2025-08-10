@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "ashis tech",
-  "defaultMode": "dark",
+  "defaultMode": "light",
   "colors": {
     "primary": "#F7D402",
     "light": "#F7D402",
