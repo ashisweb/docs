@@ -106,9 +106,9 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Website",
       "backgroundColor": "#FFD700",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://ashis.tech"
     }
   },
   "contextual": {
