@@ -53,6 +53,11 @@
           "anchor": "Seo",
           "href": "https://mintlify.com/blog",
           "icon": "bullseye-arrow"
+        },
+        {
+          "anchor": "Server Configuration",
+          "href": "https://mintlify.com/server-config",
+          "icon": "server"
         }
       ]
     }
