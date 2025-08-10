@@ -8,7 +8,7 @@
     "dark": "#F7D402"
   },
   "appearance": {
-    "default": "light",
+    "default": "dark",
     "strict": false
   },
   "favicon": "/logo/ashistechfav.png",
